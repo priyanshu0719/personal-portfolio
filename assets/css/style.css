@@ -822,6 +822,7 @@ main {
   #RESUME
 \*-----------------------------------*/
 
+
 .article-title { margin-bottom: 30px; }
 
 
@@ -886,6 +887,26 @@ main {
   font-weight: var(--fw-300);
   line-height: 1.6;
 }
+
+
+.resume-btn {
+  display: inline-block;
+  float: right;
+  margin-top: -15px;
+  padding: 10px 20px;
+  background: hsl(45, 100%, 72%);
+  color: hsl(0, 0%, 7%);
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: 600;
+  transition: 0.3s ease;
+}
+
+.resume-btn:hover {
+  transform: translateY(-2px);
+  opacity: 0.9;
+}
+
 
 
 /**
