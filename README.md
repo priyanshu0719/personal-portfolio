@@ -19,7 +19,7 @@ https://priyanshu0719.github.io/personal-portfolio/
 
 ### 🛠️ Skills Section
 
-![Skills Section](./assets/images/resume-pages.png)
+![Skills Section](./assets/images/resume-page.png)
 
 ### 📂 Projects Section
 
